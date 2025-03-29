@@ -31,7 +31,6 @@ A simple weather application that provides real-time weather updates for a speci
 4. Create a .env file in the root directory and add:
    ```sh
    REACT_APP_WEATHER_API_KEY=your_openweathermap_api_key
-   REACT_APP_UNSPLASH_ACCESS_KEY=your_unsplash_access_key
 
 5. Run the project
    ```sh
